@@ -29,7 +29,7 @@ Fraud detection pipeline for India's informal workers. Analyzes PDF metadata and
 
 ### [Slatework](https://github.com/NavdeepSingh0/slatework) – B2B Document Platform
 A production-ready SaaS with versioned document storage and **sub-50ms full-text search**. Focused heavily on making search snappy for large documents.
-*Tech: Node.js, React.js, MongoDB*
+*Tech: Node.js, React.js, PostgreSQL/Supabase*
 
 ---
 
