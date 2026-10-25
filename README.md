@@ -1,43 +1,79 @@
-<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/152f5d93-1403-4302-bb20-3db10f55ccb6" />
 
-# Navdeep Singh Dhunna
+<img width="1920" height="1080" alt="620416598-152f5d93-1403-4302-bb20-3db10f55ccb6" src="https://github.com/user-attachments/assets/652c62d9-a60b-497b-b925-2dc6ecc29225" />
+<h1 align="center">Navdeep Singh Dhunna</h1>
 
-**Full-Stack & ML Engineer**  
-📍 Surat, India | 📧 navdeep.s.dhunna@gmail.com
+<p align="center">
+  <b>Full-Stack &amp; ML Engineer</b><br/>
+  CS undergraduate at Chandigarh University · Chandigarh, India
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NavdeepSingh0&label=Profile%20views&color=0e75b6&style=plastic" alt="NavdeepSingh0" /> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/navdeepsingh-dhunna"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:navdeep.s.dhunna@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-> **Currently seeking Software Engineering Internships.**
+> **Currently seeking Software Engineering internships.**
 
-I build full-stack applications and data systems that solve actual problems. My sweet spot is designing data architecture and backend logic—honestly, I enjoy the engineering challenge more than just shipping a UI.
+I build full-stack applications and data systems that solve real problems. My sweet spot is data architecture and backend logic: I enjoy the engineering challenge more than shipping a UI, though I like a clean frontend too.
 
-When I'm not coding, I'm sketching, diving into **Unreal Engine** and **Blender**, or watching mountain climbing documentaries (planning to hit the Himalayas one day 🏔️).
-
----
-
-## Projects
-
-### [Carto](https://github.com/NavdeepSingh0/carto) – Cart Recommendation Engine
-*Zomathon Hackathon Finalist (Top 10/500+)*
-Designed a two-stage recommendation engine focusing on data architecture rather than just a frontend demo. Achieved **NDCG@5: 0.89** (30% lift) with <100ms latency. Synthesized a 14k-row dataset and published it on Kaggle.
-*Tech: Python, FastAPI, React.js, LightGBM*
-
-### [Vakalat](https://github.com/NavdeepSingh0/vakalat) – Legal Intelligence Platform
-Open-source civic-tech app giving access to **230M+ Indian court cases**. Built an 18-endpoint API to translate legal jargon into plain English. 
-*Honest take: Integrating the scraper was brutally difficult due to inconsistent government portals, but it taught me more about resilience than any tutorial could.*
-*Tech: Node.js, MongoDB, Gemini API*
-
-### [Credwork](https://github.com/NavdeepSingh0/credwork) – Gig Worker Income Verification
-Fraud detection pipeline for India's informal workers. Analyzes PDF metadata and document consistency across 9+ gig platforms (Swiggy, Zomato, Uber) to generate a "GigScore."
-*Tech: React Native, FastAPI, scikit-learn*
-
-### [Slatework](https://github.com/NavdeepSingh0/slatework) – B2B Document Platform
-A production-ready SaaS with versioned document storage and **sub-50ms full-text search**. Focused heavily on making search snappy for large documents.
-*Tech: Node.js, React.js, PostgreSQL/Supabase*
+Away from the keyboard I sketch, mess around in **Unreal Engine** and **Blender**, and watch mountain-climbing documentaries (the Himalayas are on the list 🏔️).
 
 ---
 
-## Let's Connect
-- [LinkedIn](https://linkedin.com/in/navdeepsingh-dhunna)
-- [GitHub](https://github.com/NavdeepSingh0)
-- Email: navdeep.s.dhunna@gmail.com
+## Featured projects
+
+### Nexus: Self-healing AI orchestration runtime
+*AlgOlympia 2026 · Rise of the Agents track*
+
+A runtime that breaks a request into a task graph, routes each step to the best-suited model using a weighted cost function (price, latency, reliability), and automatically re-routes to a backup provider when a step fails. Includes a FastAPI backend, a live decision-graph dashboard and an Expo mobile app.
+`Python` `FastAPI` `React` `React Native` `WebSockets` `DAG scheduling`
+
+### [Carto](https://github.com/NavdeepSingh0/carto): Cart recommendation engine
+*Zomathon hackathon finalist (top 10 of 500+)*
+
+A two-stage recommendation engine built around data architecture, not just a frontend demo. **NDCG@5 of 0.89** (a 30% lift) at **under 100 ms** latency. I generated a 14k-row synthetic dataset and published it on Kaggle.
+`Python` `FastAPI` `React` `LightGBM`
+
+### [Vakalat](https://github.com/NavdeepSingh0/vakalat): Legal intelligence platform
+Open-source civic-tech app giving access to **230M+ Indian court cases**, with an 18-endpoint API that turns legal jargon into plain English.
+*Honest take: integrating the scraper was brutally difficult because government portals are so inconsistent, but it taught me more about resilience than any tutorial.*
+`Node.js` `MongoDB` `Gemini API`
+
+### [Credwork](https://github.com/NavdeepSingh0/credwork): Gig-worker income verification
+A fraud-detection pipeline for India's informal workers. It checks PDF metadata and document consistency across 9+ gig platforms (Swiggy, Zomato, Uber) to produce a "GigScore".
+`React Native` `FastAPI` `scikit-learn`
+
+### [Slatework](https://github.com/NavdeepSingh0/slatework): B2B document platform
+A SaaS-style document platform with versioned storage and **sub-50 ms full-text search**, built to keep search fast on large documents.
+`Node.js` `React` `PostgreSQL` `Supabase`
+
+---
+
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-000020?logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+
+**Also work with:** LightGBM · LLM APIs (Gemini and others) · WebSockets
+
+---
+
+## Education
+
+**Computer Science (undergraduate)** · Chandigarh University · 2024 to present
+
+---
+
+## Let's connect
+
+[LinkedIn](https://linkedin.com/in/navdeepsingh-dhunna) · [GitHub](https://github.com/NavdeepSingh0) · [Email](mailto:navdeep.s.dhunna@gmail.com)
